@@ -8,7 +8,7 @@
 
 <h3>Build with:</h3>
 
-» Sass / Scss <br>
+» Tailwind <br>
 » React JS
 » Redux
 
